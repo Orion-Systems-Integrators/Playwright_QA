@@ -42,10 +42,19 @@ requirements.txt
 pytest
 ```
 
+For Scenario 1 & Scenarion 2 
 Run only smoke tests:
 
 ```bash
 pytest -m smoke
+```
+
+For Scenario 3 
+Run only regression tests:
+
+```bash
+pytest -m regression  
+
 ```
 
 ## Notes
