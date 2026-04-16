@@ -42,7 +42,7 @@ requirements.txt
 pytest
 ```
 
-For Scenario 1 & Scenarion 2 
+For Scenario 1 & Scenario 2 
 Run only smoke tests:
 
 ```bash
