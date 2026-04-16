@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="24.443" timestamp="2026-04-16T00:24:00.595339-04:00" hostname="UTORS23"><testcase classname="tests.test_products" name="test_product_purchase_flow[chromium]" time="24.288" /></testsuite></testsuites>
